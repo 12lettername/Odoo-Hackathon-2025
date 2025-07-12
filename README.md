@@ -1,11 +1,13 @@
 ## Team Members
-Ashi Jain
-Aryan Neogi
-Raghav Anthwal
-Shashwati Chandra
+
+-Ashi Jain
+-Aryan Neogi
+-Raghav Anthwal
+-Shashwati Chandra
 
 ##Problem Statement - Skill Swap Platform
-Develop a Skill Swap Platform - a mini application that enables users to list their skills and request others in return.
+
+-Develop a Skill Swap Platform - a mini application that enables users to list their skills and request others in return.
 
 
 ## Features
