@@ -1,12 +1,12 @@
 ## Team Members
 
--Ashi Jain
+- Ashi Jain
 
--Aryan Neogi
+- Aryan Neogi
 
--Raghav Anthwal
+- Raghav Anthwal
 
--Shashwati Chandra
+- Shashwati Chandra
 
 ##Problem Statement - Skill Swap Platform
 
