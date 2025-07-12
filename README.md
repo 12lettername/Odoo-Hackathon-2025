@@ -26,4 +26,4 @@ Develop a Skill Swap Platform - a mini application that enables users to list th
 - Responsive, modern UI built with React and Tailwind CSS
 - Clean navigation and page structure optimized for usability
 
-video link:- https://drive.google.com/file/d/1FT0ThNgZoYF_MNQj6BLssRdhG6CzSeUR/view?usp=sharing
+video link:- https://drive.google.com/file/d/1E7iO5_hkU9uSJ-VZqo8PofhlOGSqCGKr/view?usp=sharing
