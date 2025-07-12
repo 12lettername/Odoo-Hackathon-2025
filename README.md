@@ -1,4 +1,4 @@
-## 🚀 Features
+## Features
 
 - User signup and login with secure session management
 - User profile with editable name, bio, and skill tags
