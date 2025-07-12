@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 const dummyRequests = [
   {
@@ -89,9 +90,11 @@ export default function Home_Section() {
             <div className="text-sm text-gray-700 mb-4">
               <strong>Skills Wanted:</strong> {user.wanted}
             </div>
-            <button className="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition">
-              Send Request
-            </button>
+            <Link to="/swap-platform">
+              <button className="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition">
+                Send Request
+              </button>
+            </Link>
           </div>
         ))}
       </div>

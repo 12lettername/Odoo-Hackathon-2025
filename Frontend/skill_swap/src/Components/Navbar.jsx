@@ -13,10 +13,7 @@ export default function Navbar() {
           <Link to="/login" className="hover:text-blue-600 transition">Login</Link>
         </li>
         <li>
-          <Link to="/swap-requests" className="hover:text-blue-600 transition">Swap Requests</Link>
-        </li>
-        <li>
-          <Link to="/requests" className="hover:text-blue-600 transition">Requests</Link>
+          <Link to="/request" className="hover:text-blue-600 transition">Requests</Link>
         </li>
         <li>
           <Link to="/profile" className="hover:text-blue-600 transition">Profile</Link>
