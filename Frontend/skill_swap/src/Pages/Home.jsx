@@ -1,7 +1,12 @@
 import React from 'react'
+import Navbar from '../Components/Navbar'
+import Home_Section from '../Components/Home_Section'
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Navbar></Navbar>
+      <Home_Section></Home_Section>
+    </div>
   )
 }
