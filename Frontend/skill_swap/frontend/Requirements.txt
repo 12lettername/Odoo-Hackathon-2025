@@ -1,0 +1,5 @@
+Modules used in project : 
+flask 
+werkzeug.security
+Json 
+Os
